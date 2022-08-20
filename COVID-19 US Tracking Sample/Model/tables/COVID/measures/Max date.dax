@@ -1,1 +1,0 @@
-CALCULATE(MAX('COVID'[Date]),ALL('COVID'))
