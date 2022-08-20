@@ -141,7 +141,8 @@
             }
           ],
           "Version": 1
-        }
+        },
+        "ExecutionMetricsKind": 1
       }
     }
   ]

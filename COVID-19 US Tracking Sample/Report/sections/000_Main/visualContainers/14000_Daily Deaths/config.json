@@ -72,13 +72,6 @@
                 }
               }
             },
-            "padding": {
-              "expr": {
-                "Literal": {
-                  "Value": "3L"
-                }
-              }
-            },
             "fontFamily": {
               "expr": {
                 "Literal": {
@@ -109,6 +102,20 @@
               "expr": {
                 "Literal": {
                   "Value": "'8'"
+                }
+              }
+            },
+            "leftMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "3L"
+                }
+              }
+            },
+            "topMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "3L"
                 }
               }
             }

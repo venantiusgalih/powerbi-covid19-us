@@ -21,24 +21,12 @@
       "value": "Automatic"
     },
     {
-      "name": "Format",
-      "value": "<Format Format=\"DateTimeCustom\"><DateTimes><DateTime LCID=\"1033\" Group=\"ShortDate\" FormatString=\"M/d/yyyy\" /></DateTimes></Format>"
-    },
-    {
-      "name": "DataTypeAtRefresh",
-      "value": "DateTime#####Date"
-    },
-    {
-      "name": "PBI_NameAtRefresh",
-      "value": "Date"
-    },
-    {
-      "name": "PBI_WasHiddenAtRefresh",
-      "value": "False"
-    },
-    {
       "name": "UnderlyingDateTimeDataType",
       "value": "Date"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isDateTimeCustom\":true}"
     }
   ]
 }

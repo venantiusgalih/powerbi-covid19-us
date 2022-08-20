@@ -12,14 +12,6 @@
     {
       "name": "SummarizationSetBy",
       "value": "User"
-    },
-    {
-      "name": "Format",
-      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1033\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
-    },
-    {
-      "name": "DataTypeAtRefresh",
-      "value": "DateTime#####not a type"
     }
   ]
 }
