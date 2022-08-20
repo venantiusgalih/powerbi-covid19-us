@@ -27,13 +27,6 @@
                 }
               }
             },
-            "padding": {
-              "expr": {
-                "Literal": {
-                  "Value": "5L"
-                }
-              }
-            },
             "lineWeight": {
               "expr": {
                 "Literal": {
@@ -57,6 +50,34 @@
                       "Percent": 0.4
                     }
                   }
+                }
+              }
+            },
+            "leftMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "5L"
+                }
+              }
+            },
+            "rightMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "5L"
+                }
+              }
+            },
+            "topMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "5L"
+                }
+              }
+            },
+            "bottomMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "5L"
                 }
               }
             }
@@ -131,7 +152,14 @@
                 }
               }
             },
-            "padding": {
+            "rightMargin": {
+              "expr": {
+                "Literal": {
+                  "Value": "6L"
+                }
+              }
+            },
+            "topMargin": {
               "expr": {
                 "Literal": {
                   "Value": "6L"
@@ -165,15 +193,7 @@
       ],
       "outline": [
         {
-          "properties": {
-            "roundEdge": {
-              "expr": {
-                "Literal": {
-                  "Value": "0L"
-                }
-              }
-            }
-          },
+          "properties": {},
           "selector": {
             "id": "default"
           }
@@ -220,6 +240,22 @@
                       "Percent": -0.2
                     }
                   }
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        }
+      ],
+      "shape": [
+        {
+          "properties": {
+            "roundEdge": {
+              "expr": {
+                "Literal": {
+                  "Value": "0L"
                 }
               }
             }

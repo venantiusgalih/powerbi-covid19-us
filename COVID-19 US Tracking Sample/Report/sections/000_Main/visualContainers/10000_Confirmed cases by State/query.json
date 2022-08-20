@@ -112,7 +112,8 @@
             3
           ],
           "Version": 1
-        }
+        },
+        "ExecutionMetricsKind": 1
       }
     }
   ]

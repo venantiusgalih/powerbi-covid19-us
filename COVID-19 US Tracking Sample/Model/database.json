@@ -32,9 +32,6 @@
         "kind": "m",
         "annotations": [
           {
-            "name": "PBI_DescriptionAtRefresh"
-          },
-          {
             "name": "PBI_NavigationStepName",
             "value": "Navigation"
           },
@@ -48,9 +45,6 @@
         "name": "Deaths",
         "kind": "m",
         "annotations": [
-          {
-            "name": "PBI_DescriptionAtRefresh"
-          },
           {
             "name": "PBI_NavigationStepName",
             "value": "Navigation"
@@ -69,7 +63,7 @@
       },
       {
         "name": "PBIDesktopVersion",
-        "value": "2.95.622.0 (21.07)"
+        "value": "2.108.825.0 (22.08)"
       },
       {
         "name": "PBI_QueryOrder",

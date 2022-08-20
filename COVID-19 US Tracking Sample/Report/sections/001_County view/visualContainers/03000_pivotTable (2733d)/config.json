@@ -260,7 +260,7 @@
                 }
               }
             },
-            "applyToHeaders": {
+            "rowSubtotals": {
               "expr": {
                 "Literal": {
                   "Value": "true"
@@ -274,7 +274,7 @@
                 }
               }
             },
-            "rowSubtotals": {
+            "applyToHeaders": {
               "expr": {
                 "Literal": {
                   "Value": "true"

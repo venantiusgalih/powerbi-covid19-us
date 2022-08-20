@@ -127,20 +127,6 @@
                 "Value": "true"
               }
             }
-          },
-          "applyToHeaders": {
-            "expr": {
-              "Literal": {
-                "Value": "true"
-              }
-            }
-          },
-          "fontSize": {
-            "expr": {
-              "Literal": {
-                "Value": "'12'"
-              }
-            }
           }
         }
       },
@@ -156,6 +142,48 @@
         },
         "selector": {
           "metadata": "StateDim.Country"
+        }
+      },
+      {
+        "properties": {
+          "fontSize": {
+            "expr": {
+              "Literal": {
+                "Value": "'12'"
+              }
+            }
+          },
+          "applyToHeaders": {
+            "expr": {
+              "Literal": {
+                "Value": "true"
+              }
+            }
+          }
+        },
+        "selector": {
+          "id": "Column"
+        }
+      },
+      {
+        "properties": {
+          "fontSize": {
+            "expr": {
+              "Literal": {
+                "Value": "'12'"
+              }
+            }
+          },
+          "applyToHeaders": {
+            "expr": {
+              "Literal": {
+                "Value": "true"
+              }
+            }
+          }
+        },
+        "selector": {
+          "id": "Row"
         }
       }
     ],
@@ -415,7 +443,20 @@
         }
       }
     ],
-    "total": [
+    "rowTotal": [
+      {
+        "properties": {
+          "fontSize": {
+            "expr": {
+              "Literal": {
+                "Value": "'10'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "columnTotal": [
       {
         "properties": {
           "fontSize": {

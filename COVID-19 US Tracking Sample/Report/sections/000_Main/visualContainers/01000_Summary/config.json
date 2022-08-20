@@ -72,13 +72,6 @@
                 }
               }
             },
-            "padding": {
-              "expr": {
-                "Literal": {
-                  "Value": "3L"
-                }
-              }
-            },
             "fontFamily": {
               "expr": {
                 "Literal": {
