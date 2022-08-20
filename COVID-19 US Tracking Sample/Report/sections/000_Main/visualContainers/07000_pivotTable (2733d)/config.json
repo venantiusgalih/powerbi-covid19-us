@@ -111,15 +111,28 @@
       ],
       "OrderBy": [
         {
-          "Direction": 2,
+          "Direction": 1,
           "Expression": {
-            "Measure": {
+            "Column": {
               "Expression": {
                 "SourceRef": {
-                  "Source": "l"
+                  "Source": "s"
                 }
               },
-              "Property": "Total confirmed cases"
+              "Property": "Country"
+            }
+          }
+        },
+        {
+          "Direction": 1,
+          "Expression": {
+            "Column": {
+              "Expression": {
+                "SourceRef": {
+                  "Source": "s"
+                }
+              },
+              "Property": "State"
             }
           }
         }
@@ -348,7 +361,7 @@
                   "color": {
                     "expr": {
                       "Literal": {
-                        "Value": "'#e68f96'"
+                        "Value": "'#D64550'"
                       }
                     }
                   }
@@ -359,7 +372,7 @@
                   "color": {
                     "expr": {
                       "Literal": {
-                        "Value": "'#e68f96'"
+                        "Value": "'#D64550'"
                       }
                     }
                   }

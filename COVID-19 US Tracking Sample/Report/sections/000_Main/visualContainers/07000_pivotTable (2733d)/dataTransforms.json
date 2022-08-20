@@ -235,7 +235,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#e68f96'"
+                      "Value": "'#D64550'"
                     }
                   }
                 }
@@ -246,7 +246,7 @@
                 "color": {
                   "expr": {
                     "Literal": {
-                      "Value": "'#e68f96'"
+                      "Value": "'#D64550'"
                     }
                   }
                 }
@@ -564,6 +564,8 @@
       "roles": {
         "Rows": true
       },
+      "sort": 1,
+      "sortOrder": 1,
       "type": {
         "category": "StateOrProvince",
         "underlyingType": 7013377
@@ -629,6 +631,8 @@
       "roles": {
         "Rows": true
       },
+      "sort": 1,
+      "sortOrder": 0,
       "type": {
         "category": null,
         "underlyingType": 1
@@ -651,8 +655,6 @@
       "roles": {
         "Values": true
       },
-      "sort": 2,
-      "sortOrder": 0,
       "type": {
         "category": null,
         "underlyingType": 260
