@@ -502,13 +502,13 @@
         "DataCategory": 16
       },
       {
-        "Restatement": "Total Deaths",
+        "Restatement": "Jumlah Meninggal",
         "Name": "COVID measures.Total deaths",
         "Type": 3,
         "Format": "#,0"
       },
       {
-        "Restatement": "Case Fatality Rate",
+        "Restatement": "Kasus Fatal",
         "Name": "COVID measures.Case fatality rate",
         "Type": 1,
         "Format": "0.0%;-0.0%;0.0%"
@@ -519,7 +519,7 @@
         "Type": 2048
       },
       {
-        "Restatement": "Confirmed Cases",
+        "Restatement": "Terkonfirmasi positif",
         "Name": "COVID measures.Total confirmed cases",
         "Type": 3,
         "Format": "#,0"
@@ -580,7 +580,7 @@
       }
     },
     {
-      "displayName": "Total Deaths",
+      "displayName": "Jumlah Meninggal",
       "format": "#,0",
       "queryName": "COVID measures.Total deaths",
       "roles": {
@@ -602,7 +602,7 @@
       }
     },
     {
-      "displayName": "Case Fatality Rate",
+      "displayName": "Kasus Fatal",
       "format": "0.0%;-0.0%;0.0%",
       "queryName": "COVID measures.Case fatality rate",
       "roles": {
@@ -645,7 +645,7 @@
       }
     },
     {
-      "displayName": "Confirmed Cases",
+      "displayName": "Terkonfirmasi positif",
       "format": "#,0",
       "queryName": "COVID measures.Total confirmed cases",
       "roles": {

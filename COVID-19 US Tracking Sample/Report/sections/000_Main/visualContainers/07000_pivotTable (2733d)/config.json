@@ -127,16 +127,16 @@
     },
     "columnProperties": {
       "COVID measures.Total deaths": {
-        "displayName": "Total Deaths"
+        "displayName": "Jumlah Meninggal"
       },
       "COVID measures.Case fatality rate": {
-        "displayName": "Case Fatality Rate"
+        "displayName": "Kasus Fatal"
       },
       "StateDim.Country": {
         "displayName": "."
       },
       "COVID measures.Total confirmed cases": {
-        "displayName": "Confirmed Cases"
+        "displayName": "Terkonfirmasi positif"
       }
     },
     "drillFilterOtherVisuals": true,
